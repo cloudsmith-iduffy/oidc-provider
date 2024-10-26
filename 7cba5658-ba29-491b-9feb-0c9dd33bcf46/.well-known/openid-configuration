@@ -1,0 +1,5 @@
+{
+  "issuer": "https://cloudsmith-iduffy.github.io/oidc-provider/7cba5658-ba29-491b-9feb-0c9dd33bcf46",
+  "jwks_uri": "https://cloudsmith-iduffy.github.io/oidc-provider/7cba5658-ba29-491b-9feb-0c9dd33bcf46/jwks",
+  "private_keys_uri": "https://cloudsmith-iduffy.github.io/oidc-provider/7cba5658-ba29-491b-9feb-0c9dd33bcf46/private-keys"
+}
